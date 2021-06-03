@@ -1,0 +1,8 @@
+{
+    "domain": "https://api.themoviedb.org/3",
+    "img_base_url": "https://www.themoviedb.org/t/p/w220_and_h330_face",
+    "api_key": "5bec019627a359785eb5dcae7c5380e8",
+    "database": {
+        "mongo_url": "mongodb://localhost/moviesdb_db"
+    }
+}
